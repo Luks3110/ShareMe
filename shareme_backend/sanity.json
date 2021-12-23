@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "shareme_jsm"
-  },
   "api": {
     "projectId": "ur6r0box",
     "dataset": "production"
+  },
+  "project": {
+    "name": "shareme_jsm"
   },
   "plugins": [
     "@sanity/base",

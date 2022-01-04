@@ -1,1 +1,1 @@
-React_sanity_social_media_app 
+Rede social desenvolvida com React.js e utilizando o framework Sanity.io
